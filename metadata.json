@@ -1,0 +1,7 @@
+{
+  "name": "Bragalux Portal",
+  "description": "A comprehensive corporate portal for Bragalux, showcasing electrical infrastructure, energy solutions, sustainability commitments, and project portfolio.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
